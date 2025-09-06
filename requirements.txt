@@ -1,0 +1,12 @@
+ipykernel
+langchain-community
+langchain-core
+langchain
+langchain-groq
+dotenv-python
+pypdf
+sentence-transformers
+faiss-cpu
+streamlit
+torch
+langchain-huggingface
